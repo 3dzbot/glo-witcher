@@ -183,3 +183,10 @@ body {
 .footer-link {
   color: #3A383C;
 }
+
+/* responsive */
+@media (max-width: 768px) {
+  .play {
+    display: none;
+  }
+}
