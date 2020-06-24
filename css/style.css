@@ -190,5 +190,7 @@ body {
   .play {
     display: none;
     width: auto;
+    height: auto;
+    padding: 0;
   }
 }
